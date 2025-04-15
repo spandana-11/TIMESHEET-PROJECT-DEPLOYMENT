@@ -1,4 +1,4 @@
-export const serverUrl = "http://192.168.1.41:4555/api";
+export const serverUrl = "http://65.0.3.75:4555/api";
 
 // const ssuperadmin=`${serverUrl}:8089`
 // export const superadmin = `${serverUrl}:8089`;
