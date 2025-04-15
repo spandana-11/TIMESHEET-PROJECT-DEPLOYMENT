@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS ssuper_admin_database;
+CREATE DATABASE IF NOT EXISTS login_database;
+CREATE DATABASE IF NOT EXISTS super_admin_database;
+CREATE DATABASE IF NOT EXISTS admin_database;
+CREATE DATABASE IF NOT EXISTS employee_database;
+CREATE DATABASE IF NOT EXISTS id_generation_database;
+CREATE DATABASE IF NOT EXISTS project_database;
+CREATE DATABASE IF NOT EXISTS supervisor_database;
+CREATE DATABASE IF NOT EXISTS timesheet_database;
+CREATE DATABASE IF NOT EXISTS leaverequest_database;
